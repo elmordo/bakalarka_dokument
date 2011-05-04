@@ -1,0 +1,8 @@
+pojmy přesunout na konec
+v úvodu se zamyslet nad používáním odborných slov a odkázat se na slovníček v příloze
+místo "a sice" používat i pomlčky
+zarovnat do bloku
+nahradit větu "Při provedení pullu" něčím schůdnějším
+špatně jméno Linus Tovalds na Linus Torvalds
+Přesunout DŮVOD YNOVÉHO VERZOVACÍHO SYSTÉMU - přesunout do úvodu
+u zkratek "skrz který" nahradit "pomocí kterého" nebo tak něco
